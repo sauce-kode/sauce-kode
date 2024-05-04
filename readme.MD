@@ -8,8 +8,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sauce-kode&theme=dark)
 
-- 🔭 I’m currently working on infrastructure and security at my day job.
-- 📫 How to reach me: [this form](https://#).
-- 😄 Thoughts: [0xfeed.gitlab.io](https://#)
+- 🔭 I’m currently working on giving businesses wings to fly at my day job.
 
 ![](https://komarev.com/ghpvc/?username=sauce-kode)
