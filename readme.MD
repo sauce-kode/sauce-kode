@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer passionate about building robust, scalable solutions and exploring the intersection of technology and business. I help turn visions into reality by focusing on outcomes, not just outputs. With a keen interest in infrastructure and security, I strive to create impactful systems that solve real-world problems.
+I'm Dami, a software engineer passionate about building robust, scalable solutions and exploring the intersection of technology and business. I help turn visions into reality by focusing on outcomes, not just outputs. With a keen interest in infrastructure and security, I strive to create impactful systems that solve real-world problems.
 
 ## 🚀 What I Do
 
