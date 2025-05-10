@@ -12,7 +12,7 @@ I'm Dami, a software engineer passionate about building robust, scalable solutio
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript/TypeScript, Python, Go
+- **Languages:** JavaScript/TypeScript, NodeJs, ExpressJS, NestJS, Php/Laravel, Go
 - **Infrastructure:** AWS, Docker, Kubernetes
 - **Security:** Security Architecture, DevSecOps
 - **Tools:** Git, CI/CD, Terraform
