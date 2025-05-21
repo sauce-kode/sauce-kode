@@ -10,13 +10,6 @@ I'm Dami, a software engineer passionate about building robust, scalable solutio
 - 🌍 Contributing to Africa's digital transformation at [Itana](https://itana.africa)
 - 🤝 Partnering with founders to build products the right way at [Deveote](https://www.deveote.com)
 
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript/TypeScript, NodeJs, ExpressJS, NestJS, Php/Laravel, Go
-- **Infrastructure:** AWS, Docker, Kubernetes
-- **Security:** Security Architecture, DevSecOps
-- **Tools:** Git, CI/CD, Terraform
-
 ## 🌟 Current Focus
 
 - 🔐 Building secure and scalable infrastructure
